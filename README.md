@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 Cryptography stuff written in python. Made this for a little college project, educational and feeding curiosity purposes.
 Written with the help of [pycrypto](https://github.com/dlitz/pycrypto) module.
-Stuff it can do:
 
+Stuff it can do:
 ---------------------------------------------
 1. Generate private and public key (RSA-2048)
 2. Generate secret key (AES-256)
@@ -20,8 +19,3 @@ Stuff it can do:
 ---------------------------------------------
 0. Exit
 ---------------------------------------------
-
-=======
-# python-crypto
-A little cryptography college project for getting to know how crypto stuff work.
->>>>>>> a7d232721113be41cf5734ec394e7ea263cad2fc
